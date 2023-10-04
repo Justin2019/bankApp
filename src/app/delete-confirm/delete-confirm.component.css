@@ -1,0 +1,8 @@
+.dl {
+    margin: 0 auto;
+    max-width: 600px;
+    border: 1px solid #fff;
+    text-align: center;
+    color: #fff;
+    padding: 20px 0;
+}
